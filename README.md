@@ -8,7 +8,7 @@ Some circuits that i did in college
 ###Circuit 2
 1-to-2 demultiplexer
 
-###Circuit 3
+###Circuit 3 link [Heading link](https://github.com/pandao/editor.md "Heading link")
 Using circuit 1 and circuit 2, the system has 2 inputs connected in 2-to-1 multiplexer and the multiplexer output is the input of demultiplexer 1-to-2, and the two demultiplexer outputs, is the outputs of system. 
 
 ###Circuit 4
