@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/eduar/Desktop/EduardoMichel_GustavoTang_TrabalhoM1/circuit2/circuit2.vhd
+source_file = 1, C:/Users/eduar/Desktop/EduardoMichel_GustavoTang_TrabalhoM1/circuit2/circuit2_tb.vhd
+source_file = 1, c:/intelfpga_lite/18.1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/intelfpga_lite/18.1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/intelfpga_lite/18.1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/intelfpga_lite/18.1/quartus/libraries/vhdl/ieee/timing_p.vhd
+source_file = 1, C:/Users/eduar/Desktop/EduardoMichel_GustavoTang_TrabalhoM1/circuit2/db/circuit2.cbx.xml
+design_name = circuit2
+instance = comp, \o_DOUT0~output\, o_DOUT0~output, circuit2, 1
+instance = comp, \o_DOUT1~output\, o_DOUT1~output, circuit2, 1
+instance = comp, \i_DIN~input\, i_DIN~input, circuit2, 1
+instance = comp, \i_SEL~input\, i_SEL~input, circuit2, 1
+instance = comp, \o_DOUT0~0\, o_DOUT0~0, circuit2, 1
+instance = comp, \o_DOUT1~0\, o_DOUT1~0, circuit2, 1
+instance = comp, \~QUARTUS_CREATED_GND~I\, ~QUARTUS_CREATED_GND~I, circuit2, 1

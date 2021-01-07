@@ -1,0 +1,25 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "o_DOUT0",
+					"strict" : false
+				},
+				{
+					"name" : "o_DOUT1",
+					"strict" : false
+				},
+				{
+					"name" : "i_SEL",
+					"strict" : false
+				},
+				{
+					"name" : "i_DIN",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

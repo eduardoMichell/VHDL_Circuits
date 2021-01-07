@@ -1,0 +1,33 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "o_DMUX0",
+					"strict" : false
+				},
+				{
+					"name" : "o_DMUX1",
+					"strict" : false
+				},
+				{
+					"name" : "i_DMUXSEL",
+					"strict" : false
+				},
+				{
+					"name" : "i_MUX1",
+					"strict" : false
+				},
+				{
+					"name" : "i_MUXSEL",
+					"strict" : false
+				},
+				{
+					"name" : "i_MUX0",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,15 @@
+|circuit3
+i_MUX0 => o_DMUX1.DATAB
+i_MUX0 => o_DMUX0.DATAB
+i_MUX1 => o_DMUX0.DATAB
+i_MUX1 => o_DMUX1.DATAA
+i_MUXSEL => process_0.IN0
+i_MUXSEL => process_0.IN0
+i_MUXSEL => process_0.IN0
+i_DMUXSEL => process_0.IN1
+i_DMUXSEL => process_0.IN1
+i_DMUXSEL => process_0.IN1
+o_DMUX0 <= o_DMUX0.DB_MAX_OUTPUT_PORT_TYPE
+o_DMUX1 <= o_DMUX1.DB_MAX_OUTPUT_PORT_TYPE
+
+
